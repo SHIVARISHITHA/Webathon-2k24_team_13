@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+   box-sizing: border-box;
+}
+.password-input {
+    position: relative;
+  }
+  
+  .eye-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
